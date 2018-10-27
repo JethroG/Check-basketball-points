@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PracticeSet2</string>
+    <string name="team">Team</string>
+    <string name="free_throw">FREE THROW</string>
+    <string name="_3">+3</string>
+    <string name="_2">+2</string>
+
+</resources>
